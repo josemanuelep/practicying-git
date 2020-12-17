@@ -104,6 +104,7 @@ Otra cosa que puedas querer hacer es mantener el archivo en tu directorio de tra
 
 - Actualizar ramas remotas
 
+`git remote update origin --prune`
 
 
 
