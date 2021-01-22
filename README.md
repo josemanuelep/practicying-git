@@ -98,11 +98,11 @@ Otra cosa que puedas querer hacer es mantener el archivo en tu directorio de tra
 
 `$ git rm --cached README`
 
-## Ramas
+# Ramas
 
-# Ramas remotas
+## Ramas remotas
 
-- Actualizar ramas remotas
+### Actualizar ramas remotas
 
 `git remote update origin --prune`
 
