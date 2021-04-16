@@ -106,5 +106,9 @@ Otra cosa que puedas querer hacer es mantener el archivo en tu directorio de tra
 
 `git remote update origin --prune`
 
+## Activar la autocorrecion en git bash
+
+`git config --global help.autoCorrect 1`
+
 
 
