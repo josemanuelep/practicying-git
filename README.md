@@ -112,4 +112,6 @@ Otra cosa que puedas querer hacer es mantener el archivo en tu directorio de tra
 `git config --global help.autoCorrect 1`
 
 
+## Sobrescribir historial de commits
 
+git-stash - Stash the changes in a dirty working directory away
