@@ -118,6 +118,5 @@ git-stash - Stash the changes in a dirty working directory away
 
 ## Eliminar ramas sin remoto
 
-`git fetch -p && for branch in $(git branch -vv | grep ': gone]' | awk '{print $1}'); do git branch -D $branch; done
-Source:stackoverflow.com`
+`git fetch -p && for branch in $(git branch -vv | grep ': gone]' | awk '{print $1}'); do git branch -D $branch; done`
 
