@@ -32,6 +32,7 @@ nothing to commit, working directory clean`
 ### Rastrear Archivos Nuevos
 
 Para comenzar a rastrear un archivo debes usar el comando git add. Para comenzar a rastrear el archivo README, puedes ejecutar lo siguiente:
+
 `$ git add README`
 
 ### Estado Abreviado
@@ -99,6 +100,7 @@ Otra cosa que puedas querer hacer es mantener el archivo en tu directorio de tra
 
 `$ git rm --cached README`
 
+
 # Ramas
 
 ## Ramas remotas
@@ -110,7 +112,6 @@ Otra cosa que puedas querer hacer es mantener el archivo en tu directorio de tra
 ## Activar la autocorrecion en git bash
 
 `git config --global help.autoCorrect 1`
-
 
 ## Sobrescribir historial de commits
 
